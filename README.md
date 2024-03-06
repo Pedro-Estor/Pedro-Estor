@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 Estudiante de DAM en IES EL CAMINAS
 
