@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Estudiante de DAM en IES EL CAMINAS
+
 <!--
 **Pedro-Estor/Pedro-Estor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
